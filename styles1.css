@@ -1,0 +1,41 @@
+.canvasGradientLight {
+    background-image: linear-gradient(270deg,pink,#fff);
+}
+
+h1 {
+  color: rgba(30,58,138);
+  font-size: 2.8rem;
+  margin: 10px auto 0 auto;
+  font-family: 'Quicksand', sans-serif;
+  line-height: 0.7;
+}
+
+h2 {
+  color: #2A3D66;
+  font-family: 'EB Garamond', serif;
+  font-size: 2.3rem;
+  font-weight: normal;
+  line-height: 1;
+}
+
+h3 {
+  color: #31326F;
+  font-family: 'Bonheur Royale', cursive;
+  font-size: 2.2rem;
+  font-weight:normal;
+  line-height: 1.5;
+}
+p{
+  color: #31326F;
+  font-family: 'Comfortaa', cursive;
+  font-size: 1.2rem;
+  font-weight:normal;
+  line-height: 1.5;
+}
+
+a{
+  color: #753422;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 5px;
+  text-decoration: none;
+}
